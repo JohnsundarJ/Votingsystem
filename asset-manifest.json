@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Votingsystem/static/css/main.f6a98191.chunk.css",
+    "main.js": "/Votingsystem/static/js/main.4bf93d63.chunk.js",
+    "main.js.map": "/Votingsystem/static/js/main.4bf93d63.chunk.js.map",
+    "runtime-main.js": "/Votingsystem/static/js/runtime-main.50e4feec.js",
+    "runtime-main.js.map": "/Votingsystem/static/js/runtime-main.50e4feec.js.map",
+    "static/js/2.d2fba637.chunk.js": "/Votingsystem/static/js/2.d2fba637.chunk.js",
+    "static/js/2.d2fba637.chunk.js.map": "/Votingsystem/static/js/2.d2fba637.chunk.js.map",
+    "index.html": "/Votingsystem/index.html",
+    "precache-manifest.0a6c6bc31ef940cd028d5d7b6de02403.js": "/Votingsystem/precache-manifest.0a6c6bc31ef940cd028d5d7b6de02403.js",
+    "service-worker.js": "/Votingsystem/service-worker.js",
+    "static/css/main.f6a98191.chunk.css.map": "/Votingsystem/static/css/main.f6a98191.chunk.css.map",
+    "static/js/2.d2fba637.chunk.js.LICENSE.txt": "/Votingsystem/static/js/2.d2fba637.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50e4feec.js",
+    "static/js/2.d2fba637.chunk.js",
+    "static/css/main.f6a98191.chunk.css",
+    "static/js/main.4bf93d63.chunk.js"
+  ]
+}
